@@ -1,0 +1,3 @@
+C:/Users/youss/OneDrive/سطح المكتب/projects/tik-tak-toe/cmake-build-debug/CMakeFiles/tik_tak_toe.dir
+C:/Users/youss/OneDrive/سطح المكتب/projects/tik-tak-toe/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/youss/OneDrive/سطح المكتب/projects/tik-tak-toe/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "tik_tak_toe",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "tik_tak_toe::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tik_tak_toe-Debug-25ee015fc276237c6ca2.json",
+					"name" : "tik_tak_toe",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/youss/OneDrive/\u0633\u0637\u062d \u0627\u0644\u0645\u0643\u062a\u0628/projects/tik-tak-toe/cmake-build-debug",
+		"source" : "C:/Users/youss/OneDrive/\u0633\u0637\u062d \u0627\u0644\u0645\u0643\u062a\u0628/projects/tik-tak-toe"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
